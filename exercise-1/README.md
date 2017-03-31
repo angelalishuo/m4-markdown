@@ -5,3 +5,7 @@ As described in [chapter-5](https://info201-s17.github.io/book/introduction-to-g
 Then, in the space below, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote. When you push your changes back up to GitHub, you will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+> Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. 7 And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus. 
+
+Accessed from: https://www.biblegateway.com/passage/?search=Philippians%204:6-7
